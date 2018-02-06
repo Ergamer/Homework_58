@@ -1,0 +1,32 @@
+.primary{
+    background: red;
+    color: black;
+    width: 80%;
+    min-height: 50px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
+.success{
+    background: blue;
+    color: gold;
+    width: 80%;
+    min-height: 50px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
+.warning{
+    background: #CCCCCC;
+    color: green;
+    width: 80%;
+    min-height: 50px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
+.danger{
+    background: yellow;
+    color: black;
+    width: 80%;
+    min-height: 50px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+}

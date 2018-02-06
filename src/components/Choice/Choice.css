@@ -1,0 +1,18 @@
+.Choice{
+    width: 900px;
+    min-height: 500px;
+    margin: 0 auto;
+    border: 1px solid #CCCCCC;
+    border-radius: 5px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.Block{
+    width: 45%;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.Block a{
+    display: block;
+}
